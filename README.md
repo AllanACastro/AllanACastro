@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: search a job in Dev's area
+- 🔭 I’m currently working on: Vizio.me
 - 🌱 I’m always learning...
+
+
 
