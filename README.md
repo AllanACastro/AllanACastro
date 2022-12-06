@@ -1,4 +1,4 @@
-### Hi! My name is Allan Castro!
+### Hi! My name is Allan Castro! :)
 <div align="center">
   <a href="https://github.com/AllanACastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanACastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
